@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>color</key>
+		<string>pueple</string>
+		<key>picture</key>
+		<string>box_menubg_pink</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<string>green</string>
+		<key>picture</key>
+		<string>box_menubg_green</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<string>blue</string>
+		<key>picture</key>
+		<string>box_menubg_blue</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>box_menubg_red</string>
+		<key>color</key>
+		<string>red</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AppName</key>
+		<string>和生活</string>
+		<key>AppID</key>
+		<string></string>
+		<key>AppIcon</key>
+		<string>icon_hsh</string>
+		<key>AppDescription</key>
+		<string>便利生活随时享</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>和通讯录</string>
+		<key>AppID</key>
+		<string></string>
+		<key>AppIcon</key>
+		<string>icon_htxl</string>
+		<key>AppDescription</key>
+		<string>号簿管家与彩云通讯录的全新升级版</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>和阅读</string>
+		<key>AppID</key>
+		<string></string>
+		<key>AppIcon</key>
+		<string>icon_hyd</string>
+		<key>AppDescription</key>
+		<string>优秀阅读体验，高品质听书</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>和视频</string>
+		<key>AppID</key>
+		<string></string>
+		<key>AppIcon</key>
+		<string>icon_hsp</string>
+		<key>AppDescription</key>
+		<string>中国移动手机视频全新升级为和视频</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>139邮箱</string>
+		<key>AppID</key>
+		<string></string>
+		<key>AppIcon</key>
+		<string>icon_139mail</string>
+		<key>AppDescription</key>
+		<string>手机号就是邮箱号</string>
+	</dict>
+</array>
+</plist>

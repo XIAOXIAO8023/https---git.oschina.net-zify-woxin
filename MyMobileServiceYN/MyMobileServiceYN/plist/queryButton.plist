@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>icon</key>
+            <string>service_button_50</string>
+            <key>title</key>
+            <string>实时话费</string>
+        </dict>
+        <dict>
+            <key>icon</key>
+            <string>service_button_51</string>
+            <key>title</key>
+            <string>套餐余量</string>
+        </dict>
+        <dict>
+            <key>icon</key>
+            <string>service_button_52</string>
+            <key>title</key>
+            <string>流量查询</string>
+        </dict>
+        <dict>
+            <key>icon</key>
+            <string>service_button_53</string>
+            <key>title</key>
+            <string>我的账单</string>
+        </dict>
+    </array>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>service_button_60</string>
+		<key>title</key>
+		<string>业务办理</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>service_button_61</string>
+		<key>title</key>
+		<string>套餐变更</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>service_button_62</string>
+		<key>title</key>
+		<string>流量订购</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>service_button_64</string>
+		<key>title</key>
+		<string>宽带办理</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>service_btn_4Gbkdj</string>
+		<key>title</key>
+		<string>4G补卡登记</string>
+	</dict>
+</array>
+</plist>
